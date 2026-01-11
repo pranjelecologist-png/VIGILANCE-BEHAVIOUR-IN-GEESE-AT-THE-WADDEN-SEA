@@ -1,0 +1,3 @@
+This repository contains a field based behavioural ecology project examining vigilance behaviour in Brant and Barnacle geese at the Wadden Sea. Using short focal video recordings, we analysed how vigilance changes with human distance, flock position, species identity, and flock size.
+
+The results show increased vigilance at closer distances, higher scanning effort by edge individuals, clear differences between species, and reduced individual vigilance in larger flocks. Together, these findings illustrate how geese balance feeding and risk under natural conditions and demonstrate how simple, non invasive observations can reveal robust behavioural patterns.
